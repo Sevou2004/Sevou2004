@@ -1,4 +1,4 @@
-<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 750px; height: 248px; margin: 0px; width: 465px;" alt="Software Development - SO Development" jsname="kn3ccd">
+<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="justify-content: center; max-width: 750px; height: 448px; margin: 0px; width: 700px;" alt="Software Development - SO Development" jsname="kn3ccd">
 <h1 align="center">Hi 👋, I'm Shohrukh</h1>
 <h3 align="center">A passionate FullStack developer from Uzbekistan</h3>
 
